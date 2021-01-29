@@ -311,8 +311,6 @@ Now, return to the browser tab open to your Auth0 application.
 - Click on "Google" and fill in the "Client ID" and "Client Secret" from the values of `google.clientId` and `google.clientSecret` that you put into your  `temp-credentials.txt` file in the previous step.
 - Make sure to scroll down and click "Save Changes" at the bottom of the dialog to save your changes.
 
-When you have completed this step, you may return to the main instructions in the [../README.md](../README.md) to continue.
-
 ![auth0 connections social](./images/auth0-connections-social.png)
 
 ## Step 7: Setting up Custom Claims in Auth0
@@ -518,5 +516,5 @@ the logs for further debugging. You can see these either through the
 Heroku Dashboard, or at the command line if you have the Heroku CLI
 installed. The command is: `heroku logs --app APP-NAME-ON-HEROKU`.
 
-
+When you have completed this step, you may return to the main instructions in the [../README.md](../README.md) to continue.
 
