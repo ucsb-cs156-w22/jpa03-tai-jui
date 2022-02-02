@@ -1,7 +1,9 @@
 # jpa03-tai-jui
 
 Repo: https://github.com/ucsb-cs156-w22/jpa03-tai-jui
+
 On Heroku: https://jpa03-tai-jui.herokuapp.com
+
 On Codecov: https://app.codecov.io/gh/ucsb-cs156-w22/jpa03-tai-jui/
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-tai-jui/branch/master/graph/badge.svg?token=gxEj1gwPk7)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-tai-jui)
