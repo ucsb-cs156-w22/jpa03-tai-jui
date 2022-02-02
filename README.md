@@ -1,29 +1,17 @@
-# STARTER-lab03
+# jpa03-tai-jui
 
+Repo: https://github.com/ucsb-cs156-w22/jpa03-tai-jui
 
-* TODO: Change the title of this README 
-  in the text `# STARTER-jpa03` above
-  to match the name of your repo, i. e., `jpa03-yourgithubid`, then delete
-  this TODO item.
-
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-s21/jpa03-cgaucho
-
-Repo: https://ucsb-cs156-s21/STARTER-jpa03
-
-* TODO: Correct the links to app on Heroku below, 
-  then delete this TODO.  Replace it with 
+- TODO: Correct the links to app on Heroku below,
+  then delete this TODO. Replace it with
   a link to your running app on Heroku, e.g.
   https://jpa03-cgaucho.herokuapp.com
 
-
 On Heroku: https://jpa03-cgaucho.herokuapp.com
 
-* TODO: Correct the links to codecov report below
-  then delete this TODO.  Replace it with 
-  a link to your codecov report.  Fix the URLs in the codecov
+- TODO: Correct the links to codecov report below
+  then delete this TODO. Replace it with
+  a link to your codecov report. Fix the URLs in the codecov
   badge markup below as well so that the badge links to your
   correct codecov report.
 
@@ -31,28 +19,30 @@ On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho)
 
-
 ## Integrations
 
-* The npm package `prettier` is used to implement a pre-commit hook that formats JavaScript code.  See: [docs/prettier.md](./docs/prettier.md) for more information.
+- The npm package `prettier` is used to implement a pre-commit hook that formats JavaScript code. See: [docs/prettier.md](./docs/prettier.md) for more information.
 
 ## Getting Started
 
 To get started with this application, you'll need to be able to
-* Run it locally (i.e. on localhost)
-* Deploy it to Heroku
-* Get the test cases running on GitHub Actions
-* See aggregrated code coverage statistics on Codecov
+
+- Run it locally (i.e. on localhost)
+- Deploy it to Heroku
+- Get the test cases running on GitHub Actions
+- See aggregrated code coverage statistics on Codecov
 
 This application has integrations with the following third-party
 services that require configuration
-* Auth0.com (for authentication)
-* Google (for authentication)
-* A postgres database provisioned on Heroku
 
-All of the setup steps for running the app on localhost and Heroku are described in these  file: 
-* [./docs/SETUP-FULL.md](./docs/SETUP-FULL.md) if it is your first time setting up a Spring/React app with Auth0 and Google
-* [./docs/SETUP-QUICKSTART.md](./docs/SETUP-QUICKSTART.md) if you've done these steps before.
+- Auth0.com (for authentication)
+- Google (for authentication)
+- A postgres database provisioned on Heroku
+
+All of the setup steps for running the app on localhost and Heroku are described in these file:
+
+- [./docs/SETUP-FULL.md](./docs/SETUP-FULL.md) if it is your first time setting up a Spring/React app with Auth0 and Google
+- [./docs/SETUP-QUICKSTART.md](./docs/SETUP-QUICKSTART.md) if you've done these steps before.
 
 ## Setting up GitHub Actions (CI/CD, CodeCov)
 
@@ -63,10 +53,11 @@ This file also describes the setup for Codecov
 
 ## Property file values
 
-This section serves as a quick reference for values found in these files: 
-* [`application.properties`](./src/main/resources/application.properties)
-* [`secrets-localhost.properties`](./secrets-localhost.properties.SAMPLE)
-* [`secrets-heroku.properties`](./secrets-heroku.properties.SAMPLE)
+This section serves as a quick reference for values found in these files:
+
+- [`application.properties`](./src/main/resources/application.properties)
+- [`secrets-localhost.properties`](./secrets-localhost.properties.SAMPLE)
+- [`secrets-heroku.properties`](./secrets-heroku.properties.SAMPLE)
 
 | Property name                                                     | Heroku only? | Explanation                                                               |
 | ----------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------- |
