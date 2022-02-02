@@ -1,23 +1,10 @@
 # jpa03-tai-jui
 
 Repo: https://github.com/ucsb-cs156-w22/jpa03-tai-jui
+On Heroku: https://jpa03-tai-jui.herokuapp.com
+On Codecov: https://app.codecov.io/gh/ucsb-cs156-w22/jpa03-tai-jui/
 
-- TODO: Correct the links to app on Heroku below,
-  then delete this TODO. Replace it with
-  a link to your running app on Heroku, e.g.
-  https://jpa03-cgaucho.herokuapp.com
-
-On Heroku: https://jpa03-cgaucho.herokuapp.com
-
-- TODO: Correct the links to codecov report below
-  then delete this TODO. Replace it with
-  a link to your codecov report. Fix the URLs in the codecov
-  badge markup below as well so that the badge links to your
-  correct codecov report.
-
-On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho
-
-[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho)
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-tai-jui/branch/master/graph/badge.svg?token=gxEj1gwPk7)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-tai-jui)
 
 ## Integrations
 
